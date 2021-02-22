@@ -1,0 +1,2 @@
+function SUBMIT()
+{ alert("SUCCESSFUL");}
